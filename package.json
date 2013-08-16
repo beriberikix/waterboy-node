@@ -1,0 +1,15 @@
+{
+  "name": "waterbot-node",
+  "description": "RPi hardware for waterboy",
+  "version": "0.0.1",
+  "author": "Jonathan Beri <http://www.jonathanberi.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beriberikix/waterboy-node.git"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "gpio": "latest",
+    "request": "latest"
+  }
+}
